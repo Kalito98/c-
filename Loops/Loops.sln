@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFrom1ToN", "NumbersFrom1ToN\NumbersFrom1ToN.csproj", "{504F1CEF-739A-4610-9B97-6483A11508A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotDivisibleNumbers", "NotDivisibleNumbers\NotDivisibleNumbers.csproj", "{6B40926A-1E9E-4C48-876C-1EF6F89AD627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMSAofNNumbers", "MMSAofNNumbers\MMSAofNNumbers.csproj", "{0779E383-2C1D-4910-9B60-6B6A24B178AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504F1CEF-739A-4610-9B97-6483A11508A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504F1CEF-739A-4610-9B97-6483A11508A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504F1CEF-739A-4610-9B97-6483A11508A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504F1CEF-739A-4610-9B97-6483A11508A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B40926A-1E9E-4C48-876C-1EF6F89AD627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B40926A-1E9E-4C48-876C-1EF6F89AD627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B40926A-1E9E-4C48-876C-1EF6F89AD627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B40926A-1E9E-4C48-876C-1EF6F89AD627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0779E383-2C1D-4910-9B60-6B6A24B178AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0779E383-2C1D-4910-9B60-6B6A24B178AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0779E383-2C1D-4910-9B60-6B6A24B178AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0779E383-2C1D-4910-9B60-6B6A24B178AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
