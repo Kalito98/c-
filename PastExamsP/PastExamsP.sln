@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodingSum", "EncodingSum\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{6A5D36AA-D1A9-464C-9A51-948E8C1666E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitstoBits", "BitstoBits\BitstoBits.csproj", "{86C0471A-A58B-4808-8125-DF9E97F69946}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6A5D36AA-D1A9-464C-9A51-948E8C1666E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A5D36AA-D1A9-464C-9A51-948E8C1666E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A5D36AA-D1A9-464C-9A51-948E8C1666E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C0471A-A58B-4808-8125-DF9E97F69946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C0471A-A58B-4808-8125-DF9E97F69946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C0471A-A58B-4808-8125-DF9E97F69946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C0471A-A58B-4808-8125-DF9E97F69946}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
